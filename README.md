@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="C++" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="Node.js" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
 </p>
